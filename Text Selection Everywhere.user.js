@@ -8,4 +8,4 @@
 // @run-at      document-idle
 // ==/UserScript==
 
-GM_addStyle('*{ -webkit-user-select:auto!important;-ms-user-select:auto!important;user-select:auto!important;');
+GM_addStyle('*{-webkit-user-select:auto!important;-ms-user-select:auto!important;user-select:auto!important;');
